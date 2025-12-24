@@ -7,7 +7,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 On top of LazyVim this setup includes:
 
-* 
+* `emoji` to add emojis in your files. Use `<leader>ie`
 
 ## Installation
 
